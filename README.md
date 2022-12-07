@@ -36,7 +36,18 @@ Firstly you should goto the `Settings & Administration > Workspace settings` in 
 
 <img width="633" alt="image" src="https://user-images.githubusercontent.com/14858637/206246706-af637a0a-02fa-4421-ab7b-7176f3e5354e.png">
 
-
-
-
 Also you can ses all details in [here](https://api.slack.com/tutorials/hello-world-bolt)
+
+
+# How can I run application ? 
+
+in the route directory, you just need to run the following commands and that's it!
+
+
+```javascript
+yarn //to setup slack api package
+```
+
+```javascript
+node app.js // you should see 'Getting started to clear your slack messages' message 
+```
