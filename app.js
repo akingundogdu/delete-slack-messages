@@ -49,7 +49,7 @@ const getMessagesFromSlack = async ({slackClient, channelId, myUserId}) => {
 
 (async () => {
     try {
-        let deletedMessagesCount = 0;
+        let deletedMessagesCount = 0;//after completing the delete process for all slack messages, this will stop.
         do {
             console.log(deletedMessagesCount > 0 ? 'clean process continue...' : '');
 
