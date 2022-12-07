@@ -34,6 +34,8 @@ Firstly you should goto the `Settings & Administration > Workspace settings` in 
 
 ### Step 9 - and paste in app.js
 
+<img width="633" alt="image" src="https://user-images.githubusercontent.com/14858637/206246706-af637a0a-02fa-4421-ab7b-7176f3e5354e.png">
+
 
 
 
