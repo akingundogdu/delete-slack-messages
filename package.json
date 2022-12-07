@@ -1,0 +1,11 @@
+{
+  "name": "delete-slack-messages",
+  "version": "1.0.0",
+  "description": "This project helps to you delete whole slack messages that you selected channel automatically",
+  "main": "app",
+  "author": "Ozgur Ersoy & Akin Gundogdu",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/web-api": "^6.8.0"
+  }
+}
